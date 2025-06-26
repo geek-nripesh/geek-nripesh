@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Multimodel AI**
+- 🔭 I’m currently working on **Minecraft MOD for an AI based companion**
 
-- 🌱 I’m currently learning **Deep learning**
+- 🌱 I’m currently learning **Artificial Intelligence and APIs**
 
 - 💬 Ask me about **Artficial Intelligence, Machine Learning, C++, Python, MySql**
 
